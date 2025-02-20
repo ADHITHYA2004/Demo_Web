@@ -1,0 +1,20 @@
+.homebanner{
+    background-color: #e8e8e8;
+}
+.banner-1-text{
+    top: 15%;
+    left: 12%;
+}
+.banner-inner-text{
+    line-height: 200px;
+}
+.banner-1-btn{
+    background-color: var(--banner-btn);
+    border: none;
+    padding: 10px 50px;
+}
+.banner-1-btn:hover{
+    background-color: transparent;
+    border: white 1px solid;
+    color: white;
+}

@@ -1,0 +1,48 @@
+.bestsellcardmain {
+    padding: 0 100px;
+}
+
+.bestseller {
+    background-color: #e8e8e8;
+}
+
+.card {
+    min-width: 305px;
+}
+
+.card img {
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    width: 100%;
+}
+
+.price {
+    font-size: 17px;
+    color: blueviolet;
+}
+
+.card img:hover {
+    transform: scale(1.03);
+}
+
+.BestsellCards {
+    scrollbar-width: none;
+}
+
+.saleTAge {
+    top: 10px;
+    left: 10px;
+}
+
+.bestSellerViewAll {
+    background-color: var(--main-btn);
+    border: none;
+    color: white;
+    padding: 13px 90px;
+}
+
+.bestSellerViewAll:hover {
+    background-color: transparent;
+    border: #751fff 1px solid;
+    color: #751fff;
+}

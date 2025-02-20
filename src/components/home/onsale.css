@@ -1,0 +1,49 @@
+.onsalemain{
+    padding: 0 100px;
+}
+.onsale{
+    background-color: #e8e8e8;
+}
+.card{
+    min-width:305px;
+    overflow: hidden;
+}
+.card img{
+    width: 100%;
+    transition: transform 0.3s ease;
+
+}
+.price{
+    font-size: 17px;
+    color:blueviolet;
+}
+.card img:hover{
+    transition: scale(1.03);
+}
+.onsalecards{
+    scrollbar-width: none;
+}
+.saleTAge{
+    top: 10px;
+    left: 10px;
+}
+.onSaleViewAll{
+    background-color: var(--main-btn);
+    border: none;
+    color: white;
+    padding: 13px 90px;
+}
+.onSaleViewAll:hover{
+    background-color: transparent;
+    border: #751fff 1px solid;
+    color: #751fff;
+}
+.previous button{
+    border: none;
+    background-color: transparent;
+}
+.next button{
+    border: none;
+    background-color: transparent;
+}
+

@@ -1,0 +1,21 @@
+.bestsellerpage{
+    background-color: #e8e8e8;
+}
+
+.cards{
+    width:314px;
+}
+.card img{
+    width: 100%;
+}
+.price{
+    font-size: 17px;
+    color:blueviolet;
+}
+.card-body{
+    background-color: #e8e8e8;
+}
+.lines{
+    width: 100%;
+    border-top: black 1 px solid;
+}

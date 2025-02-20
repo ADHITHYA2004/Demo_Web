@@ -1,0 +1,7 @@
+.shopfoot p{
+    text-decoration: none;
+    color: black;
+}
+.shopfoot p:hover{
+    color:#751fff;
+}

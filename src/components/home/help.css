@@ -1,0 +1,19 @@
+.bannerImg img{
+    width: 100%;
+    height: 100%;
+}
+.bannerText{
+    background-color: black;
+}
+.innerText{
+    padding: 100px;
+}
+.helpbtn{
+    padding: 12px 15px;
+    border: #751fff 1px solid;
+    color: #751fff;
+}
+.helpbtn:hover{
+    color: white;
+    background-color: #751fff;
+}

@@ -1,0 +1,12 @@
+.line{
+    /* width: 100%; */
+    border-bottom: #e8e8e8 2px solid;
+    margin: 25px 100px 40px;
+}
+.paymentoption{
+    padding: 0 300px;
+}
+.paymentoptioncontaine img{
+    width: 55px;
+    height: 34px;
+}

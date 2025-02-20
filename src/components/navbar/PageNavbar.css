@@ -1,0 +1,119 @@
+.navbars{
+    /* position: sticky; */
+    top: 0;
+    z-index: 99;
+}
+.nav1{
+    color: white;
+    font-size: 14px;
+    background-color: black;
+}
+ul{
+    list-style: none;
+}
+.navright li{
+    color: white;
+}
+.search-icon {
+    color: white;
+    border-radius: 70%;
+}
+
+.searchIcon{
+    background-color:#751fff;
+    padding: 12px 20px;
+    position: absolute;
+    right: 0px;
+    color: white;
+    border-radius: 0 20px 20px 0;
+    width: 70px;
+}
+.homeName h2{
+    font-size: 40px;
+}
+.searchInput{
+    width:350px;
+    position: relative;
+    color: black;
+    padding: 10px 10px;
+    border-radius: 20px;
+    background-color: #e8e8e8;
+    border: none;
+}
+.userIcon{
+    border-radius: 50%;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+}
+.cartCount{
+    background-color: black;
+    padding: 0px 3px;
+    font-size: 13px;
+    border-radius: 50%;
+    color: white;
+}
+.nav3{
+    background-color: #e8e8e8;
+    align-items: center;
+}
+
+.nav3 li{
+    padding: 0 10px;
+    margin-top: 10px;
+}
+.nav3 li p{
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+}
+.nav3 li p:hover{
+    color: #751fff;
+}
+.nav-1{
+    background-color: black;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+.nav-2 input{
+    outline: none;
+    width: 400px;
+    border: none;
+    padding: 16px;
+    background-color: #e8e8e8;
+}
+.nav-2 .nav-2 i{
+    background-color: #751fff;
+    padding: 18px 40px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    position: absolute;
+    right: 10px;
+    color: whitesmoke;
+}
+.nav-2 .nav-2 i:hover{
+    background-color: black;
+}
+.nav-2 input:hover{
+    background-color: white;
+    border: 1px solid black;
+}
+.px-5{
+    padding-left: 2.5rem !important;
+}
+.nav-3 ul li{
+    padding-right: 35px;
+    font-size: 16px;
+    color: rgba(0,0,0 );
+}
+.nav-3{
+    background-color:  #e8e8e8;
+}
+.py-3{
+    padding: 2.5rem 0px;
+}
+.product_nav a:hover{
+    color: var(--primary-btn-color);
+}

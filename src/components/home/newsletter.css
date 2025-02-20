@@ -1,0 +1,32 @@
+.newsletter{
+    background-color: #e8e8e8;
+}
+.newslettercontainer{
+    background-color: #751fff;
+    color: white;
+}
+.newsInput{
+    padding: 0 13%;
+}
+.newsInput input{
+    background-color: transparent;
+    width: 70%;
+    border: 1px white solid;
+}
+.subBtn{
+    padding: 12px 0;
+    border: none;
+    color: white;
+    background-color: black;
+}
+.subBtn:hover{
+    background-color: #d1b4ff;
+    color: black;
+}
+.check{
+    padding: 0 15%;
+}
+.empty{
+    height: 80px;
+    background-color: #e8e8e8;
+}

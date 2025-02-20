@@ -1,0 +1,31 @@
+.droneBanner{
+    background-color: #e8e8e8;
+}
+.textdiv{
+    background-color: white;
+    width: 50%;
+    height: 100%;
+}
+.textdiv{
+    width: 100%;
+    width: white;
+}
+.offerper{
+    font-size: 90px;
+    color: blueviolet;
+}
+.sideNavCoponent ul li{
+    padding: 5px 0;
+    color: black;
+}
+.dronshop{
+    background-color: var(--main-btn);
+    border: none;
+    padding: 13px 90px;
+    color: white;
+}
+.dronshop:hover{
+    background-color: transparent;
+    border: #751fff 1px solid;
+    color: #751fff;
+}

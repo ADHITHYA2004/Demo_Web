@@ -1,0 +1,41 @@
+* {
+    line-height: normal;
+}
+
+.homeImage img {
+    width: 100%;
+}
+
+.text {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.homeText {
+    top: 10%;
+}
+
+.offer {
+    font-size: 20px;
+}
+
+.homeText {
+    left: 13%;
+}
+
+.textDiv3 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.shopbtn {
+    padding: 15px 60px;
+    background-color: #751fff;
+    border: none;
+    color: white;
+}
+.shopbtn:hover{
+    background-color: transparent;
+    color: #751fff;
+    border: #751fff 1px solid;
+}
